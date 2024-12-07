@@ -22,7 +22,7 @@ const Header = () => {
           ))}
         </div>
         <div className="grid grid-cols-3 gap-3">
-          <NavLink to="/contact" className="relative">
+          <NavLink to="/login" className="relative">
             <HiOutlineUser className="w-full h-full" />
             <span className="absolute right-0 -mr-1 top-0 rounded-full bg-[#56B280] px-1 py-0 text-xs text-white"></span>
           </NavLink>

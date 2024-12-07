@@ -19,4 +19,9 @@ export const LINKS = [
     name: "Contact us",
     path: "/contact",
   },
+  {
+    id: 5,
+    name: "Login",
+    path: "/login",
+  },
 ];
